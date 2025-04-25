@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Dinusha</h1>
 <h3 align="center">An undergraduate student in Computer Science and Statistics at the University of Kelaniya, Sri Lanka.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinusha-2001&label=Profile%20views&color=0e75b6&style=flat" alt="dinusha-2001" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinusha-2001" alt="dinusha-2001" /></a> </p>
 
 - 🌱 I’m currently learning **Computer Science and Statistics at the University of Kelaniya.**
 
